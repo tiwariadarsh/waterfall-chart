@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+
+table, th, td {
+  border: 1px solid;
+}
+
+table {
+  width: 80%;
+  margin-inline-start: 9rem;
+  margin-top: 2rem;
+}
